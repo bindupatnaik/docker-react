@@ -1,0 +1,6 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS                     PORTS                    NAMES
+7efe6733b0ea   803aed02866e   "docker-entrypoint.s…"   3 minutes ago   Exited (0) 2 minutes ago                            pensive_beaver
+f018a5164d64   frontend_web   "docker-entrypoint.s…"   37 hours ago    Up 37 hours                0.0.0.0:3002->3006/tcp   frontend_web_1
+59df109a11a7   react          "docker-entrypoint.s…"   38 hours ago    Exited (1) 38 hours ago                             priceless_antonelli
+7be5184c684e   react          "docker-entrypoint.s…"   38 hours ago    Exited (0) 38 hours ago                             fervent_tereshkova
+404abc864dba   react          "docker-entrypoint.s…"   38 hours ago    Exited (1) 38 hours ago                             focused_cartwright
